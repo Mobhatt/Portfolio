@@ -1,0 +1,50 @@
+.project-details {
+    margin-top: 20px;
+  }
+  
+  .project {
+    border: 5px solid #1d1d86; /* Green border */
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding: 20px;
+    font-family: Arial, sans-serif; /* Change font family */
+  }
+  
+  .project-heading {
+    color: #1c4779;
+    font-size: 20px; /* Increase font size */
+    margin-bottom: 10px;
+  }
+  
+  .project-info {
+    margin-bottom: 15px;
+  }
+  
+  .project-info p {
+    margin: 5px 0;
+  }
+  
+  .project-features {
+    margin-bottom: 15px;
+  }
+  
+  .project-features p {
+    margin: 5px 0;
+  }
+  
+  .project-activities {
+    margin-bottom: 15px;
+  }
+  
+  .project-activities p {
+    margin: 5px 0;
+  }
+  
+  .project-activities ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  
+  .project-activities ul li {
+    margin-bottom: 5px;
+  }
